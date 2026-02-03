@@ -2,7 +2,7 @@ Hi, I'm Tahsin Karcı 👋
 
 Electrical & Electronics Engineering and Computer Science student passionate about Artificial Intelligence, intelligent energy systems, and advanced engineering modeling.
 I enjoy working at the intersection of AI, optimization, and real-world physical systems — combining mathematical foundations with practical implementations.
-
+---
 🔬 Interests
 
 -Artificial Intelligence 
@@ -12,7 +12,7 @@ I enjoy working at the intersection of AI, optimization, and real-world physical
 -Optimization & Mathematical Modeling
 -Intelligent Energy Systems 
 -Data-driven engineering solutions
-
+---
 ⚙️ Technical Background
 
 My work spans both theoretical modeling and hands-on engineering systems.
@@ -33,7 +33,7 @@ My work spans both theoretical modeling and hands-on engineering systems.
 ---Programming
 -Python (PyTorch, TensorFlow, Scikit-learn, Pyomo)
 -MATLAB, C/C++, SQL
-
+---
 🧠 Research & Projects
 
 I have worked on projects involving:
@@ -44,11 +44,11 @@ I have worked on projects involving:
 -Mathematical and simulation-based modeling in optical systems
 
 I am particularly interested in how AI, including Spiking Neural Networks (SNNs), can enhance large-scale engineering systems, with a focus on energy-efficient computation and intelligent optimization.
-
+---
 🚀 Goals
 
 Driven by curiosity about the logic behind complex systems, I aim to develop technologies that create meaningful, real-world impact. I believe that combining AI, physics, and engineering is key to building smarter and more efficient systems for the future.
-
+---
 📫 Contact
 
 LinkedIn: https://linkedin.com/in/tahsin-karci
